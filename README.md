@@ -4,12 +4,42 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=adff00&lines=George+%F0%9F%98%84;It's+me+George+%F0%9F%98%84" alt="Typing SVG" />
 </h1>
 
-<h3 align="center" style="color:#adff00;">A passionate generative AI developer</h3>
+<h3 align="center">A passionate GAN-AI developer </h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **my own**
+ 
+ 🌱 I’m currently learning **RF, LLM, Agent, Docker, Supabase, AWS**
+
+💬 Ask me about **ML, DL, NLP... or anything [here](https://github.com/georgeY123-AI/georgeY123-AI/issues)**
+
+⚡ Fun fact **GANs once created an AI-generated Rembrandt painting that was so convincing, it fooled art experts! 🎨🤖**
 
 
+</div>
 
-###
+ <div align="center"> 
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,java,mysql,flask" /><br>
+</div>
+
+<br/>
+<hr/>
+
+ 
 <div align="center">
 </div>
 
@@ -80,18 +110,6 @@
 </div>
 
 ###
-
- 
-<h2 align="center" style="color:#adff00;">
-  🚀 AI | Machine Learning Engineer | Deep Learning | Computer Vision | Data Scientist
-</h2>
-
-<p align="center" style="color:#adff00;">
-  💡 <strong>Passionate about creating intelligent systems and solving real-world problems through AI, machine learning, and data science.</strong><br>
-  🎓 <strong>Final-year student at Benha University (AI Department)</strong><br>
-  🌍 <strong>From Qalyoub, Qalyubia, Egypt</strong>
-</p>
-
 
 <div align="left">
   <a href="https://discord.gg/KZRXcmRf" target="_blank">
