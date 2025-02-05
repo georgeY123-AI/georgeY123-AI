@@ -1,6 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=georgeY123-AI.georgeY123-AI"/>
 
-<h1 align="center">Hi 👋! My name is George</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=adff00&lines=George+%F0%9F%98%84;It's+me+George+%F0%9F%98%84" alt="Typing SVG" />
+</h1>
+
+<h3 align="center" style="color:#adff00;">A passionate generative AI developer</h3>
+
+
 
 ###
 
