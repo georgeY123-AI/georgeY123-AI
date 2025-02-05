@@ -81,6 +81,18 @@
 
 ###
 
+ 
+<h2 align="center" style="color:#adff00;">
+  🚀 AI | Machine Learning Engineer | Deep Learning | Computer Vision | Data Scientist
+</h2>
+
+<p align="center" style="color:#adff00;">
+  💡 <strong>Passionate about creating intelligent systems and solving real-world problems through AI, machine learning, and data science.</strong><br>
+  🎓 <strong>Final-year student at Benha University (AI Department)</strong><br>
+  🌍 <strong>From Qalyoub, Qalyubia, Egypt</strong>
+</p>
+
+
 <div align="left">
   <a href="https://discord.gg/KZRXcmRf" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
