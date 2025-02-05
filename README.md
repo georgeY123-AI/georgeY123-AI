@@ -22,7 +22,7 @@
 </div>
 
  <div align="center"> 
-  <a href="https://georgeY123-AI.github.io" target="_blank">
+  <a href="https://georgey123-ai.github.io/georgeY123-AI.githun.io/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
