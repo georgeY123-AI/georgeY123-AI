@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **my own**
  
- 🌱 I’m currently learning **RF, LLM, Agent, Docker, Supabase, AWS**
+ 🌱 I’m currently learning **RL, LLM, Agent, Docker, Supabase, AWS**
 
-💬 Ask me about **ML, DL, NLP... or anything [here](https://github.com/georgeY123-AI/georgeY123-AI/issues)**
+💬 Ask me about **ML, DL, NLP... or anything [here](mailto:george.youssef077@gmail.com)**
 
 ⚡ Fun fact **GANs once created an AI-generated Rembrandt painting that was so convincing, it fooled art experts! 🎨🤖**
 
