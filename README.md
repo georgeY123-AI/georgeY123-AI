@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=adff00&lines=George+%F0%9F%98%84;It's+me+George+%F0%9F%98%84" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate GAN-AI developer </h3>
+<h3 align="center">A passionate GEN-AI developer </h3>
 
 <br/>
 
